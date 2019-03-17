@@ -1,2 +1,2 @@
 # mitu
-Under construction.  
+Some simple pyhton functions that format print statements.
